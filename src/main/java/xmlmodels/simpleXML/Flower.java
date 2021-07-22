@@ -1,4 +1,4 @@
-package xmlmodels;
+package xmlmodels.simpleXML;
 
 public class Flower {
     private String name;
